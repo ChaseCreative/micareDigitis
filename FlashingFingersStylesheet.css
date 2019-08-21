@@ -1,0 +1,229 @@
+.divBox{
+	background-color: grey; 
+	height: 800px; 
+	width: 600px
+}
+
+
+#caption{
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	background-color: yellow;
+}
+
+
+#yourScore {
+
+	float: left;
+	background-color: blue;
+	color: white;
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	vertical-align: middle;
+
+	margin-top: 10px;
+	margin-left: 20px;
+	padding: 30px;
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+
+}
+
+#ajaxScore {
+
+	float: right;
+	background-color: red;
+	color: white;
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 10px;
+	margin-right: 20px;
+	padding: 30px;
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+}
+
+#dummy{
+	margin: 90px;
+	clear:both;
+}
+
+#questionOne{
+	text-align: center;
+	padding: 10px;
+	margin-top:0px;
+	clear: both;
+}
+
+#input1 {
+	background-color: blue;
+	color: white;
+}
+
+#input1Button {
+	background-color: yellow;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+#questionTwo{
+	text-align: center;
+	padding: 10px;
+	margin-top:0px;
+	clear: both;
+}
+
+#input2 {
+	background-color: blue;
+	color: white;
+}
+
+#input2Button {
+	background-color: yellow;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.leftFingers{
+
+	float: left;
+	background-color: blue;
+	
+	height: 130px;
+	width: 90px;
+	 
+	margin-left: 50px;
+	padding: 10px;
+
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	 
+
+}
+
+.rightFingers{
+
+	float: right;
+	background-color: blue;
+	
+	height: 130px;
+	width: 90px;
+	 
+	margin-right: 50px;
+	padding: 10px;
+
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+
+
+}
+
+.ajaxLeftFingers{
+
+	float: left;
+	background-color: red;
+	
+	height: 130px;
+	width: 90px;
+	 
+	margin-left: 50px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+
+}
+
+.ajaxRightFingers{
+
+	float: right;
+	background-color: red;
+	
+	height: 130px;
+	width: 90px;
+	 
+	margin-right: 50px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+
+}
+
+#sumOfThrows{
+	margin: 15px;
+	clear: both;
+}
+
+
+#resultsDiv{
+
+	margin: auto;
+	width: 50%;
+	clear: both;
+}
+
+#resultsButton{
+	background-color: yellow;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+
+#nextThrowButton{
+	
+	background-color: yellow;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+#nextThrow{
+	margin: auto;
+	text-align: center;
+	clear: both;
+	
+}
+
+#playAgain{
+	margin: auto;
+	text-align: center;
+	clear: both;
+}
+
+#playAgainButton{
+	
+	background-color: yellow;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+ 
